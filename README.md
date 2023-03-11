@@ -2,21 +2,15 @@
 
 <p><em>Student Software Developer op  <a href="http://glr.nl">Grafisch Lyseum Rotterdam</a></em></p>
 <br/>
-<br/>
-<br/>
 
 ### Mijn Huidige Projecten
 - <a href="https://github.com/HerpieDerpieee/BestellenSchool">Happy Italy Website 🍕</a>
-<br/>
-<br/>
 <br/>
 
 ### Mijn Hobby's
 - Programmeren 💻
 - Gamen 🎮
 - Piano Spelen 🎹
-<br/>
-<br/>
 <br/>
 
 ### Github Stats
