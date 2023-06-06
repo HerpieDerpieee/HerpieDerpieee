@@ -4,7 +4,7 @@
 
 
 ### Mijn Huidige Projecten
-- <a href="https://github.com/HerpieDerpieee/BestellenSchool">Happy Italy Website 🍕</a>
+- <a href="https://github.com/HerpieDerpieee/VillaTeKoop">Villa te Koop</a>
 
 
 ### Mijn Hobby's
