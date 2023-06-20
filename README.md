@@ -4,7 +4,7 @@
 
 
 ### Mijn Huidige Projecten
-- <a href="https://github.com/HerpieDerpieee/VillaTeKoop">Villa te Koop</a>
+- <a href="https://github.com/HerpieDerpiee/">Geen Huidig Project</a>
 
 
 ### Mijn Hobby's
