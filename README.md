@@ -11,9 +11,3 @@
 - Programmeren 💻
 - Gamen 🎮
 - Piano Spelen 🎹
-
-
-### Github Stats
-
-![herps's GitHub stats](https://github-readme-stats.vercel.app/api?username=HerpieDerpieee&show_icons=true&theme=dark)
-
