@@ -4,7 +4,7 @@
 
 
 ### Mijn Huidige Projecten
-- <a href="https://github.com/HerpieDerpieee/LJ2-Portfolio">Portfolio Website</a>
+- <a href="https://github.com/HerpieDerpieee/">De Verzamelaar</a>
 
 
 ### Mijn Hobby's
