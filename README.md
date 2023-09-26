@@ -4,7 +4,7 @@
 
 
 ### Mijn Huidige Projecten
-- <a href="https://github.com/HerpieDerpieee/">De Verzamelaar</a>
+- <a href="https://github.com/HerpieDerpieee/">Hartslagmeter Scary Mansion</a>
 
 
 ### Mijn Hobby's
