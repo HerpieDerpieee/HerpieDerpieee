@@ -4,9 +4,7 @@
 
 
 ### Mijn Huidige Projecten
-- <a href="#">R2-D2</a>
-- <a href="https://herpiederpiee.nl">Portfolio Website</a>
-
+- <a href="#">Stage Lopen :)</a>
 
 ### Mijn Hobby's
 - Programmeren 💻
